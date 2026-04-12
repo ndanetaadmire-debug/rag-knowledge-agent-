@@ -1,0 +1,19 @@
+[
+  {"question": "How many days do I have to return an item?", "expected_doc": "refunds", "expected_section": "Eligibility"},
+  {"question": "My order arrived broken, what should I do?", "expected_doc": "refunds", "expected_section": "Damaged items"},
+  {"question": "Who must approve a refund over R2,000?", "expected_doc": "refunds", "expected_section": "Damaged items"},
+  {"question": "How long until my refund is paid back?", "expected_doc": "refunds", "expected_section": "Processing times"},
+  {"question": "Can I return a wig I already wore?", "expected_doc": "refunds"},
+  {"question": "How long does delivery to Johannesburg in Gauteng take?", "expected_doc": "shipping", "expected_section": "Delivery times"},
+  {"question": "Is shipping free for big orders?", "expected_doc": "shipping", "expected_section": "Costs"},
+  {"question": "Do you ship internationally?", "expected_doc": "shipping"},
+  {"question": "How do I track my parcel?", "expected_doc": "shipping", "expected_section": "Tracking"},
+  {"question": "How many annual leave days do staff get?", "expected_doc": "leave", "expected_section": "Annual leave", "groups": ["hr"]},
+  {"question": "When is a medical certificate needed for sick leave?", "expected_doc": "leave", "groups": ["managers"]},
+  {"question": "Is multi-factor authentication required?", "expected_doc": "security", "expected_section": "Passwords and access"},
+  {"question": "How quickly must a security incident be reported?", "expected_doc": "security", "expected_section": "Incident reporting"},
+  {"question": "What is the minimum password length?", "expected_doc": "security"},
+  {"question": "What is the weather forecast for Cape Town tomorrow?"},
+  {"question": "How many annual leave days do staff get?", "groups": []},
+  {"question": "Who won the rugby world cup?"}
+]
